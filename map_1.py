@@ -1,6 +1,6 @@
 # Author: Kelvin Loh
 # Tutorial: https://python-post.blogspot.com/2026/01/mapview.html
-# GitHub: https://github.com/yourname/yourrepo
+# GitHub: https://github.com/Kelvin-Data/MapView/blob/main/map_1.py
 
 from tkinter import *
 import ttkbootstrap as tb
@@ -93,3 +93,4 @@ map_widget.set_zoom(15)
 
 
 root.mainloop()
+
