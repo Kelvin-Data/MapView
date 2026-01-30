@@ -1,3 +1,7 @@
+# Author: Kelvin Loh
+# Tutorial: https://python-post.blogspot.com/2026/01/mapview.html
+# GitHub: https://github.com/yourname/yourrepo
+
 from tkinter import *
 import ttkbootstrap as tb
 import tkintermapview
@@ -86,5 +90,6 @@ map_widget.pack()
 
 # Set initial zoom level (15 is a moderately close view)
 map_widget.set_zoom(15)
+
 
 root.mainloop()
